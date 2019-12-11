@@ -1,0 +1,7 @@
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 5\HighLow\HighLow\bin\Debug\HighLow.exe.config
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 5\HighLow\HighLow\bin\Debug\HighLow.exe
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 5\HighLow\HighLow\bin\Debug\HighLow.pdb
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 5\HighLow\HighLow\obj\Debug\HighLow.csprojAssemblyReference.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 5\HighLow\HighLow\obj\Debug\HighLow.csproj.CoreCompileInputs.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 5\HighLow\HighLow\obj\Debug\HighLow.exe
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 5\HighLow\HighLow\obj\Debug\HighLow.pdb

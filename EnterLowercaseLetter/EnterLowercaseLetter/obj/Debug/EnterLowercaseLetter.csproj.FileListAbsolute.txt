@@ -1,0 +1,7 @@
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 5\EnterLowercaseLetter\EnterLowercaseLetter\bin\Debug\EnterLowercaseLetter.exe.config
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 5\EnterLowercaseLetter\EnterLowercaseLetter\bin\Debug\EnterLowercaseLetter.exe
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 5\EnterLowercaseLetter\EnterLowercaseLetter\bin\Debug\EnterLowercaseLetter.pdb
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 5\EnterLowercaseLetter\EnterLowercaseLetter\obj\Debug\EnterLowercaseLetter.csprojAssemblyReference.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 5\EnterLowercaseLetter\EnterLowercaseLetter\obj\Debug\EnterLowercaseLetter.csproj.CoreCompileInputs.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 5\EnterLowercaseLetter\EnterLowercaseLetter\obj\Debug\EnterLowercaseLetter.exe
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 5\EnterLowercaseLetter\EnterLowercaseLetter\obj\Debug\EnterLowercaseLetter.pdb

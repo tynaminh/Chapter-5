@@ -1,0 +1,2 @@
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 5\ValidID\ValidID\obj\Debug\ValidID.csprojAssemblyReference.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 5\ValidID\ValidID\obj\Debug\ValidID.csproj.CoreCompileInputs.cache

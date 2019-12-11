@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterLowercaseLetter", "EnterLowercaseLetter\EnterLowercaseLetter.csproj", "{F62344C8-DF35-4152-BC59-1BEB9B172CFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F62344C8-DF35-4152-BC59-1BEB9B172CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62344C8-DF35-4152-BC59-1BEB9B172CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62344C8-DF35-4152-BC59-1BEB9B172CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62344C8-DF35-4152-BC59-1BEB9B172CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E96BCFA4-08B0-45AE-945A-6D90444D4484}
+	EndGlobalSection
+EndGlobal

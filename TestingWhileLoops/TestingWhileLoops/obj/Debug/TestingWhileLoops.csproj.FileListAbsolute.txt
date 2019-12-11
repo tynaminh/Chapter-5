@@ -1,0 +1,2 @@
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 5\TestingWhileLoops\TestingWhileLoops\obj\Debug\TestingWhileLoops.csprojAssemblyReference.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 5\TestingWhileLoops\TestingWhileLoops\obj\Debug\TestingWhileLoops.csproj.CoreCompileInputs.cache
